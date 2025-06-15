@@ -12,7 +12,7 @@ const projects = [
   {
     title: 'iNotebook-A Note taking App',
     image:"/inotebook.jpg",
-    description: 'Built a secure and responsive full-stack note-taking app using the MERN stack. Integrated JWT-based authentication,Email OTP , CRUD operations via Fetch API, and a clean UI with React Router for seamless user experience.',
+    description: 'Built a secure and responsive full-stack note-taking app using the MERN stack. Integrated JWT-based authentication,Email OTP Authentication, CRUD operations via Fetch API, and a clean UI with React Router for seamless user experience.',
     tech: ['FullStack', 'React', 'MongoDb','Express Js','JWT Token'],
     gitlink: 'https://github.com/balajirongali/iNotebook',
     link:'https://inotebook-lilac-eight.vercel.app/'
