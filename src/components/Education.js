@@ -18,7 +18,7 @@ function Education() {
                                 <h5 className="card-title fw-bold">Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat</h5>
                                 <p className="card-text"><strong>Degree:</strong> B.Tech in Computer Science and Engineering</p>
                                 <p><strong>Duration:</strong> 2022 – Present</p>
-                                <p><strong>CGPA:</strong> 8.31</p>
+                                <p><strong>CGPA:</strong> 8.39</p>
                                 <p><strong>Coursework:</strong> Data Structures, Algorithms, OS, COA, DBMS, OOP, Web Dev, CN, AI/ML, MIT, System Software, CI/CD Tools, InfoSec, Cloud, Data Science</p>
                             </div>
                         </div>

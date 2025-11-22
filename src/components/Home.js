@@ -9,7 +9,7 @@ const Home = () => {
       <div className="row justify-content-center mb-4">
         <div className="col-auto">
           <img
-            src="/profile_img.jpg"
+            src="/profile_img3.jpg"
             alt="Profile"
             className="rounded-circle"
             style={{

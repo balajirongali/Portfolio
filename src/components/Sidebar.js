@@ -78,7 +78,7 @@ function Sidebar() {
         }}
       >
         <img
-          src="/profile_img.jpg"
+          src="/profile_img3.jpg"
           alt="Profile"
           className="rounded-circle mb-4"
           style={{ width: '120px', height: '120px', objectFit: 'cover' }}
@@ -163,7 +163,7 @@ function Sidebar() {
         </div>
         <div className="offcanvas-body" style={{ backgroundColor: '#1e293b' }}>
           <img
-            src="/profile_img.jpg"
+            src="/profile_img3.jpg"
             alt="Profile"
             className="rounded-circle mb-4 d-block mx-auto"
             style={{ width: '120px', height: '120px', objectFit: 'cover' }}
